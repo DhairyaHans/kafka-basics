@@ -1,0 +1,11 @@
+{
+  "name": "kafka-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DhairyaHans/kafka-basics.git",
+  "author": "Dhairya Hans <dhairyahans2001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
